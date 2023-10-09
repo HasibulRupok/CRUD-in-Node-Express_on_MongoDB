@@ -31,3 +31,24 @@ Before you begin, ensure you have met the following requirements:
 
    ```bash
    git clone https://github.com/yourusername/your-project.git
+
+## Usage
+
+Once the server is running, you can use the API to perform CRUD operations on user data. You can access the API using tools like Postman or by making HTTP requests from your application.
+
+## API Endpoints
+
+- **GET /api/user**: Get a list of all users.
+- **GET /api/user/:id**: Get a single user by ID.
+- **POST /api/user**: Create a new user.
+- **PUT /api/user/:id**: Update a user by ID.
+- **DELETE /api/user/:id**: Delete a user by ID.
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests to help improve this project.
+
+## License
+
+This project is licensed under the MIT License.
+
