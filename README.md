@@ -1,6 +1,6 @@
 # Node.js Express and MongoDB CRUD Project
 
-This is a simple CRUD (Create, Read, Update, Delete) operation-based project built using Node.js, Express, and MongoDB. It allows you to store and manage user information.
+This is a simple CRUD (Create, Read, Update, Delete) operation-based `backend` project built using Node.js, Express, and MongoDB. It allows you to store and manage user information.
 
 ## Table of Contents
 
